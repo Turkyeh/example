@@ -1,0 +1,29 @@
+body {
+    background-color: aliceblue;
+}
+
+#main #squar,
+#square1,
+#square2 {
+    width: 60px;
+    height: 60px;
+    background: #4f09f3;
+
+
+
+}
+
+#main {
+
+    display: inline-block;
+    float: center;
+}
+
+#A1,
+#A3,
+#A5,
+#A7,
+#A9 {
+
+    background-color: blue;
+}
